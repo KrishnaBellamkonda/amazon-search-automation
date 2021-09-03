@@ -1,0 +1,7 @@
+Amazon Search Automation 
+Tasks 
+- Identify a command from shell (done)
+- Take keywords from shell (done)
+- search for these keywords on amazon 
+- Go through to top 15 pages and then cumulate the results  & save the results 
+- Find the 3 cheapest result, most discounred product and also the one with most review rating
